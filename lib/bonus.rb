@@ -22,8 +22,7 @@ def bonus
 
   #code your solution here:
   
-  {
-   :montague => {
+  {:montague => {
       :patriarch => {name: "Michael Jordan", age: "53"},
       :matriarch => {name: "Lady Montague", age: "54"},
       :hero => {name: "Romeo", age: "15", status: "dead"},
